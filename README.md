@@ -12,6 +12,6 @@ This lib format a "Post" object and send it to a Slack hook endpoint.
 
 
 ## Resources
-*[Reddit API](https://www.reddit.com/dev/api/)
-*[Slack API](https://api.slack.com/)
-*[Node HTTPS lib](https://nodejs.org/api/https.html)
+* [Reddit API](https://www.reddit.com/dev/api/)
+* [Slack API](https://api.slack.com/)
+* [Node HTTPS lib](https://nodejs.org/api/https.html)
